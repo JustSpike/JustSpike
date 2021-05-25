@@ -14,7 +14,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows&logoColor=0052CC)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![TCP/UDP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
+![TCP/UDP](https://img.shields.io/badge/-VisualStudioCode-000?&logo=visual-studio-code)
 
 ### Projects/Contributes
 
