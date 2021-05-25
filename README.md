@@ -2,9 +2,9 @@
 
 ### Programming Languages
 
-[![LUA](https://img.shields.io/badge/-Lua-000?&logo=lua&logoColor=2C2D72)](https://github.com/visibait?tab=repositories&q=&type=&language=lua)
+[![LUA](https://img.shields.io/badge/-Lua-000?&logo=lua&logoColor=2C2D72)](https://github.com/justspike?tab=repositories&q=&type=&language=lua)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/visibait?tab=repositories&q=&type=&language=javascript)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/justspike?tab=repositories&q=&type=&language=javascript)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=007ACC)
 
 ### Technologies
@@ -18,14 +18,13 @@
 ### Projects/Contributes
 
 [![Pagina web](https://img.shields.io/badge/-🧬%20Pagina%20Web-000?)](https://spikearea.it)
-[![IFRP](https://img.shields.io/badge/-❤️%20IF%20RP-000?)](https://ifrp.it)
+[![IFRP](https://img.shields.io/badge/-❤️%20IFRP-000?)](https://ifrp.it)
 
-### FiveM
+### Contatti
 
-- :telescope: Contatti
 - 📭 Discord: Spike#2314
 - ❤️ Discord Server: https://discord.gg/wx765GXaAZ
-- 🤩 Web: http://spikearea.it
+- 🤩 Website: http://spikearea.it
 
 <a href="https://www.spikearea.it/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=justspike&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justspike&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
