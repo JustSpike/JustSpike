@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/visibait/visibait/master/videoreadme.gif)](https://www.spikearea.it)
+[![Header](https://raw.githubusercontent.com/visibait/justspike/master/spikearea.gif)](https://www.spikearea.it)
 
 ### Programming Languages
 
