@@ -14,7 +14,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows&logoColor=0052CC)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000?&logo=node-dot-js&logoColor=#339933)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node-dot-js&logoColor=#339933)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000?&logo=visual-studio-code&logoColor=#007AC)
 
 ### Projects/Contributes
