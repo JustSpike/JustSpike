@@ -4,7 +4,7 @@
 
 ![LUA](https://img.shields.io/badge/-Lua-000?&logo=lua&logoColor=2C2D72)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=phplogoColor=2C2D72)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHPlogoColor=#777BB4)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=007ACC)
 
