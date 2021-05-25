@@ -15,9 +15,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![TCP/UDP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
-### Proyectos/Contribuciones
+### Projects/Contributes
 
-[![Pagina web](https://img.shields.io/badge/-🧬%20Pagina%20Web-000?)](https://visibait.com)
+[![Pagina web](https://img.shields.io/badge/-🧬%20Pagina%20Web-000?)](https://spikearea.it)
 [![IFRP](https://img.shields.io/badge/-❤️%20IF%20RP-000?)](https://ifrp.it)
 
 ### FiveM
