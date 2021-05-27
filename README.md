@@ -23,7 +23,7 @@
 
 ### Contacts
 
-- 📭 Discord: Spike#2314
+- 📭 Discord: Spike®#2314
 - ❤️ Discord Server: https://discord.gg/wx765GXaAZ
 - 🤩 Website: http://spikearea.it
 
